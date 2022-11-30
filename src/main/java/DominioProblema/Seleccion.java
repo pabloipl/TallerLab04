@@ -1,9 +1,10 @@
 package DominioProblema;
 
-public class Seleccion extends Jugador {
+public class Seleccion {
 
     private String pais;
     private int ranking;
+
 
 
 }
